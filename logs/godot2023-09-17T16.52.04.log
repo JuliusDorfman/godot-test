@@ -1,0 +1,8 @@
+Godot Engine v4.1.1.stable.mono.official.bd6af8e0e - https://godotengine.org
+Vulkan API 1.3.250 - Forward Mobile - Using Vulkan Device #0: AMD - AMD Radeon RX 5700 XT
+ 
+Level Node Ready
+USER ERROR: Error calling from signal 'player_entered_gate' to callable: 'Node2D(level.gd)::_on_gate_player_entered_gate': Method expected 0 arguments, but called with 1.
+   at: emit_signalp (core/object/object.cpp:1082)
+USER ERROR: Error calling from signal 'player_entered_gate' to callable: 'Node2D(level.gd)::_on_gate_player_entered_gate': Method expected 0 arguments, but called with 1.
+   at: emit_signalp (core/object/object.cpp:1082)
